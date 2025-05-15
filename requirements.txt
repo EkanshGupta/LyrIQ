@@ -1,0 +1,15 @@
+streamlit
+spotipy
+lyricsgenius
+sentence-transformers
+umap-learn
+plotly
+faiss-cpu
+annoy
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+requests
